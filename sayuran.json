@@ -58,5 +58,29 @@
     "name": "Bunga Matahari",
     "type": "Bunga",
     "image": "bunga_matahari.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bunga Mawar",
+    "type": "Bunga",
+    "image": "bunga_mawar.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Bunga Melati",
+    "type": "Bunga",
+    "image": "bunga_melati.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Daun Singkong",
+    "type": "Daun",
+    "image": "daun_singkong.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Kangkung",
+    "type": "Daun",
+    "image": "kangkung.jpg"
   }
 ]
