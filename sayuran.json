@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wortel",
+    "type": "Akar",
+    "image": "wortel.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bayam",
+    "type": "Daun",
+    "image": "bayam.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tomat",
+    "type": "Buah",
+    "image": "tomat.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kentang",
+    "type": "Umbi",
+    "image": "kentang.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Brokoli",
+    "type": "Bunga",
+    "image": "brokoli.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Terong",
+    "type": "Buah",
+    "image": "terong.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Selada",
+    "type": "Daun",
+    "image": "selada.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kubis",
+    "type": "Daun",
+    "image": "kubis.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ubi",
+    "type": "Umbi",
+    "image": "ubi.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bunga Matahari",
+    "type": "Bunga",
+    "image": "bunga_matahari.jpg"
+  }
+]
